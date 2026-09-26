@@ -1,1 +1,2 @@
-# avito_case
+# Тестовое задания для Avito DS Bootcamp
+

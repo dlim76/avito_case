@@ -1,0 +1,16 @@
+# Python
+.venv
+__pycache__
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints
+
+# CatBoost
+catboost_info
+
+# macOS
+.DS_Store
+
+# Исходные данные
+data
